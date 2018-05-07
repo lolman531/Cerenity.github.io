@@ -99,3 +99,21 @@ footer {
    top: 280px;
    left: 1020x;
 }
+
+#News1 {
+   background-image: url('News1.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 1020px;
+}
+
+#News1:hover {
+   background-image: url('News1Holo.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 1020x;
+}
