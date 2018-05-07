@@ -64,3 +64,38 @@ footer {
  font-weight: bold;
 }
 
+#CSGOTEAM {
+   background-image: url('Counter%20Strike.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 300px;
+}
+
+#CSGOTEAM:hover {
+   background-image: url('Counter%20Strike%20hover.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 300px;
+}
+
+#TF2TEAM {
+   background-image: url('cerenity%20teamfortres.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 1020px;
+}
+
+#TF2TEAM:hover {
+   background-image: url('TF2Hover.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 1020x;
+}
