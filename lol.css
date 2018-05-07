@@ -1,0 +1,66 @@
+body.index {background-image: url(cerenity%20versuch%20idk.png);
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+body.page2 {background-image: url(hintergrund%20page%202.png);
+}
+
+body.Page3 {background-image: url(Counterstrike%20Team.png);
+}
+
+body.Page5 {background-image: url(tf2%20hintergrund.png)}
+
+Seiten Icon { border: 1px solid #000; height: 650px; width: 650px; position: relative; }
+img { position: absolute; left: 10%; top: 6%; margin: -63px 0 0 -182px;}
+
+
+
+header {
+    background: #500;
+    color: white;
+    padding: 10px 10px 0 10px;
+}
+
+header h1 {
+    margin: 0;
+    display: inline;
+    color: #500
+}
+
+h2 {
+    color:dodgerblue;
+    font-size: 40px;
+    font-family: "Kenyan Coffee";
+    
+}
+
+nav ul{
+    margin: 0;
+    display: inline;
+}
+
+nav ul li {
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px 10px;
+    margin: 0;
+}
+
+nav ul li a {
+    color: yellowgreen;
+    font-family: "Kenyan Coffee";
+    font-size: 20px;
+}
+
+footer {
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+ font-size: 60px;
+ font-family: "Kenyan Coffee";
+ color: rgb(178, 21, 27);
+ font-weight: bold;
+}
+
