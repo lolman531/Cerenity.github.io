@@ -6,10 +6,10 @@ background-size: auto;
 body.page2 {background-image: url(hintergrund%20page%202.png);
 }
 
-body.Page3 {background-image: url(Counterstrike%20Team.png);
+body.Page3 {background-image: url(HintergrundBlau.png);
 }
 
-body.Page5 {background-image: url(tf2%20hintergrund.png)}
+body.Page5 {background-image: url(HintergrundBlau.png)}
 
 Seiten Icon { border: 1px solid #000; height: 650px; width: 650px; position: relative; }
 img { position: absolute; left: 10%; top: 6%; margin: -63px 0 0 -182px;}
