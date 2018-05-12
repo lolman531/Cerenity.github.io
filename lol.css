@@ -17,7 +17,7 @@ img { position: absolute; left: 10%; top: 6%; margin: -63px 0 0 -182px;}
 
 
 header {
-    background: #500;
+    background: #800;
     color: white;
     padding: 10px 10px 0 10px;
 }
@@ -25,7 +25,7 @@ header {
 header h1 {
     margin: 0;
     display: inline;
-    color: #500
+    color: #800;
 }
 
 h2 {
@@ -43,7 +43,6 @@ nav ul{
 nav ul li {
     color: white;
     display: inline-block;
-    list-style-type: none;
     padding: 10px 10px;
     margin: 0;
 }
@@ -56,13 +55,16 @@ nav ul li a {
 }
 
 footer {
- position: absolute;
- bottom: 0;
- width: 100%;
- font-size: 60px;
- font-family: "Kenyan Coffee";
- color: rgb(178, 21, 27);
- font-weight: bold;
+    position: absolute;
+    text-align: left;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 1rem;
+    font-size: 60px;
+    font-family: "Kenyan Coffee";
+    color: rgb(178, 21, 27);
+    font-weight: bold;
 }
 
 #CSGOTEAM {
@@ -118,3 +120,15 @@ footer {
    top: 280px;
    left: 1020x;
 }
+
+footer1 {
+    position: absolute;
+    text-align: left;
+    top: 1750px;
+    left: 1020x;
+    font-size: 60px;
+    font-family: "Kenyan Coffee";
+    color: rgb(178, 21, 27);
+    font-weight: bold;
+}
+
