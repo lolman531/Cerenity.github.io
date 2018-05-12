@@ -140,3 +140,12 @@ footer1 {
    top: 280px;
    left: 250px;
 }
+
+#News2:hover {
+   background-image: url('News2Holo.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 250px;
+}
