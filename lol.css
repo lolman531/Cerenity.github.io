@@ -132,3 +132,11 @@ footer1 {
     font-weight: bold;
 }
 
+#News2 {
+   background-image: url('News2.png');
+   height: 300px;
+   width: 600px;
+   position: absolute;
+   top: 280px;
+   left: 250px;
+}
